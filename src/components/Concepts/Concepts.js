@@ -7,4 +7,5 @@ function concepts(props){
         
     
 }
+
 export default concepts;
